@@ -1,0 +1,1 @@
+Variance formulas of diagonal covariance matrices of Gaussian Mixtures for constructing the true noise distribution for the paper Data-Driven Distributionally Robust Optimal Control with State-Dependent Noise
